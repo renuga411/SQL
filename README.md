@@ -1,1 +1,2 @@
-# SQL
+Abstraction:
+The Hotel Management System using SQL is designed to efficiently manage hotel operations such as room booking, guest information, billing, and staff details. It stores and organizes data in relational tables for easy access and manipulation. The system allows administrators to add, update, and retrieve information using SQL queries. It simplifies daily tasks like check-in, check-out, and payment processing, reducing manual effort and improving accuracy. Overall, the system ensures smooth management of hotel activities through a reliable and structured database approach.
